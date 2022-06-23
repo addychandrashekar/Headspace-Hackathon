@@ -1,0 +1,19 @@
+{
+   "developer": {
+       "dev_1": "Carly Jackson",
+       "dev_2": "Adithya Chandrashekar"
+   },
+   "manifest_version": 2,
+   "name": "MoodSter",
+   "version": "1.0.1",
+   "browser_action": {
+
+       "default_popup": "popup.html"
+   },
+   "description": "Extension that checks in on your mood-- if you're not doing well, never fear! MoodSter is here! It will provide you with some helpful and fun websites to browse.",
+   "icons": {
+    "128": "img/toystory.png"
+  }
+
+}
+
